@@ -4,9 +4,9 @@
   
 ## Patch (20190217):
   1. kernel_20190217.zip(replace original r61520fb.ko in kernel folder)  
-    + Fix compatiable issue with pcsx rearmed emulator  
+    + Fix compatible issue with pcsx rearmed emulator  
   2. pcsx_rearmed_20190217.zip  
-    + Porting from notaz Github with newest v1.9  
+    + Porting from notaz Github  
 
 ## Patch (20190216):
   1. kernel_20190216.zip(replace original r61520fb.ko in kernel folder)  
