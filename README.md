@@ -2,6 +2,14 @@
 ![Alt text](miyoo.bmp)  
 (Designed by win2next)
   
+## Patch (20190216):
+  1. kernel_20190216.zip(replace original r61520fb.ko in kernel folder)  
+    + Fix improper init code for lcd screen (issue: need reboot to enter GMenu2X)  
+  2. miyoo_spi_hwmod_1bit_ghostkey_20190216.bin (flash via usb)  
+    + Fix ghost key issue for SDCard 1Bit handheld (report nothing when the number of pressed key >= 3)  
+  3. miyoo_spi_hwmod_4bit_ghostkey_20190216.bin (flash via usb)  
+    + Fix ghost key issue for SDCard 4Bit handheld (report nothing when the number of pressed key >= 3)  
+ 
 ## Patch (20190214):
   1. Framebuffer driver: kernel_20190214.zip(replace original r61520fb.ko in kernel folder)  
     a. Support double buffer  
