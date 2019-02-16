@@ -2,6 +2,12 @@
 ![Alt text](miyoo.bmp)  
 (Designed by win2next)
   
+## Patch (20190217):
+  1. kernel_20190217.zip(replace original r61520fb.ko in kernel folder)  
+    + Fix compatiable issue with pcsx rearmed emulator  
+  2. pcsx_rearmed_20190217.zip  
+    + Porting from notaz Github with newest v1.9  
+
 ## Patch (20190216):
   1. kernel_20190216.zip(replace original r61520fb.ko in kernel folder)  
     + Fix improper init code for lcd screen (issue: need reboot to enter GMenu2X)  
@@ -35,4 +41,5 @@
   1. Ghost keys when press more than 3 keys  
   2. Need to double click DOWN key when start the game of sdlpal_v1/sdlpal_v2  
   3. Take about 5 seconds back to 60fps in sms emulator  
-  4. Crash issue found in gpsp emulator when enter menu  
+  4. Crash issue found in gpsp emulator when enter menu 
+  5. Crash issue found in pcsx rearmed emulator when exit  
