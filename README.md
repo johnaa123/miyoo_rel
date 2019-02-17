@@ -2,16 +2,25 @@
 ![Alt text](miyoo.bmp)  
 (Designed by win2next)
   
+## Patch (20190218):
+  1. kernel_20190218.zip  
+    + Fix black screen issue when exit emulator  
+  2. pcsx_rearmed_20190218.zip  
+    a. Screen center for game with resolution 256x240  
+    b. Fix crash issue when exit emulator  
+  3. gpsp_20190218.zip  
+    + Fix Select key issue  
+  
 ## Patch (20190217):
-  1. kernel_20190217.zip(replace original r61520fb.ko in kernel folder)  
+  1. kernel_20190217.zip  
     + Fix compatible issue with pcsx rearmed emulator  
   2. pcsx_rearmed_20190217.zip  
-    + Porting from notaz Github (parameter used in GMenu2X: "-cdfile $1")   
+    + Porting from notaz Github (parameter used in GMenu2X: "-cdfile $1")  
   3. gpsp_20190217.zip  
-    + Fix crash when show setting menu  
-
+    + Fix crash issue when show setting menu  
+  
 ## Patch (20190216):
-  1. kernel_20190216.zip(replace original r61520fb.ko in kernel folder)  
+  1. kernel_20190216.zip  
     + Fix improper init code for lcd screen (issue: need reboot to enter GMenu2X)  
   2. miyoo_spi_hwmod_1bit_ghostkey_20190216.bin (flash via usb)  
     + Fix ghost key issue for SDCard 1Bit handheld (report nothing when the number of pressed key >= 3)  
@@ -43,4 +52,3 @@
   1. Ghost keys when press more than 3 keys  
   2. Need to double click DOWN key when start the game of sdlpal_v1/sdlpal_v2  
   3. Take about 5 seconds back to 60fps in sms emulator  
-  4. Crash issue found in pcsx rearmed emulator when exit  
