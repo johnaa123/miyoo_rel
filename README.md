@@ -6,7 +6,7 @@
   1. kernel_20190217.zip(replace original r61520fb.ko in kernel folder)  
     + Fix compatible issue with pcsx rearmed emulator  
   2. pcsx_rearmed_20190217.zip  
-    + Porting from notaz Github  
+    + Porting from notaz Github (parameter used in GMenu2X: "-cdfile $1")   
   3. gpsp_20190217.zip  
     + Fix crash when show setting menu  
 
