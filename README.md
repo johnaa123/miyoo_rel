@@ -7,6 +7,8 @@
     + Fix compatible issue with pcsx rearmed emulator  
   2. pcsx_rearmed_20190217.zip  
     + Porting from notaz Github  
+  3. gpsp_20190217.zip  
+    + Fix crash when show setting menu  
 
 ## Patch (20190216):
   1. kernel_20190216.zip(replace original r61520fb.ko in kernel folder)  
@@ -41,5 +43,4 @@
   1. Ghost keys when press more than 3 keys  
   2. Need to double click DOWN key when start the game of sdlpal_v1/sdlpal_v2  
   3. Take about 5 seconds back to 60fps in sms emulator  
-  4. Crash issue found in gpsp emulator when enter menu 
-  5. Crash issue found in pcsx rearmed emulator when exit  
+  4. Crash issue found in pcsx rearmed emulator when exit  
