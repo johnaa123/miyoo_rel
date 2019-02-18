@@ -40,6 +40,10 @@
   5. Included games: chocolate doom, sdlpal v1, sdlpal v2, sorr  
   6. Included emulators: fceux, gpsp, ohboy, picodrive, sms, snes9x4d, temper  
  
+## Stock ROM:
+  1. miyoo_stock_v1.bin is for v1 miyoo/bittboy handheld  
+  2. miyoo_stock_v2.bin is for v2 miyoo/bittboy handheld  
+  
 ## Hotkey:
   1. Volume: Select + A/B  
   2. Backlight: Select + TA/TB  
