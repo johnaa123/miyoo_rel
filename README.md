@@ -2,6 +2,10 @@
 ![Alt text](miyoo.bmp)  
 (Designed by win2next)
   
+## Patch (20190219):
+  1. gngeo_20190219.zip  
+    + Porting gngeo emulator from RS97 source  
+  
 ## Patch (20190218):
   1. kernel_20190218.zip  
     + Fix black screen issue when exit emulator  
