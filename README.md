@@ -5,6 +5,8 @@
 ## Patch (20190219):
   1. gngeo_20190219.zip  
     + Porting gngeo emulator from RS97 source  
+  2. gmenu2x_20190219.zip  
+    + Include more themes and pictures  
   
 ## Patch (20190218):
   1. kernel_20190218.zip  
