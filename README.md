@@ -2,6 +2,10 @@
 ![Alt text](miyoo.bmp)  
 (Designed by win2next)
   
+## Patch (20190220):
+  1. gpsp_20190220.zip  
+    + Add border image (border.png)  
+  
 ## Patch (20190219):
   1. gngeo_20190219.zip  
     + Porting gngeo emulator from RS97 source  
