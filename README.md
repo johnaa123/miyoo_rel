@@ -7,6 +7,8 @@
     + Porting gngeo emulator from RS97 source  
   2. gmenu2x_20190219.zip  
     + Include more themes and pictures  
+  3. ohboy_20190219.zip  
+    + Add palettes and borders  
   
 ## Patch (20190218):
   1. kernel_20190218.zip  
